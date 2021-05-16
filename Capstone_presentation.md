@@ -53,6 +53,6 @@ But it is a good proof of perfect.
 
 * The app is available at: https://willemhogewoning.shinyapps.io/Capstone/
 
-* The data repository is at: 
+* The data repository is at: https://github.com/WillemHogewoning/Capstone
 
-* The presentation is at: 
+* The presentation is at: https://rpubs.com/WillemHogewoning/Capstone
